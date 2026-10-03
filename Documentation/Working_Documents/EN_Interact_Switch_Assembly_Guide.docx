@@ -1,0 +1,117 @@
+Required Components
+      
+BOM
+1x switch base (3D printed)
+1x button cap holder (3D printed)
+1x button cap insert (3D printed)
+1x button cap (3D printed)
+Omron SS-3GP limit switch
+1x 3.5 mm mono cable
+3x M2.5x12 or #4 x 3/8" self-tapping pan head screws
+
+
+Required Tools
+Soldering iron and solder
+Wire strippers
+Screwdriver
+Required Personal Protective Equipment (PPE)
+Safety glasses
+
+
+Attribution
+The Interact Switch design by Mike Turvey is used under a CC-BY 4.0 licence. These instructions were adapted from the original Interact Switch assembly instructions by Mike Turvey, used under a CC-BY 4.0 licence.
+ASSEMBLY GUIDE
+ Step  1 - Prepare the Cable
+Cut off and discard one of the plugs on the mono audio cable.
+Use the wire strippers to carefully remove about 15 mm of the outer insulation from the cut end.
+
+
+
+
+ 
+Step 2 - Prepare the Cable Wires
+Twist the copper strands together to form a single wire.
+
+Use the wire strippers to remove about 5 mm of insulation from the other wire.
+
+(Note: Your cable may be different. If both wires are insulated, strip 5 mm from the end of each wire.)
+
+
+
+
+ 
+
+
+
+Step 3 - Thread the Cable Through the Switch Base
+Pass the cable through the hole in the switch base. You will not be able to do this after the wires are soldered to the limit switch.
+
+
+
+Step 4 - Solder the Wires to the Limit Switch
+Solder the wires to the switch as shown.
+
+Note: Solder to the two leads closest to the switch button.
+
+Self-test: plug your limit switch into a switch-adapted device and press its button.
+
+
+Step 5 - Install the Limit Switch in the Base
+Place the limit switch in the switch base as shown.
+
+Install the switch so that, with the cable pointing toward you, the button is offset to the left. Make sure no wires are pinched underneath, which would keep the limit switch from sitting fully in place. 
+
+Then press the cable into the slot as shown.
+
+
+
+
+
+
+Step 6 - Assemble the Button Cap
+Turn the button cap upside down and insert the button cap insert. If you are not sure which size to use, start with the 0.5 mm insert.
+
+
+
+
+
+Step 7 - Finish the Button Cap Assembly
+Insert the button cap holder into the assembled button cap. The orientation of the "open" side does not matter.
+
+Note: for a smoother-acting switch, sand the edges of the button cap holder where it rubs against the cap.
+
+
+
+
+
+
+Step 8 - Assemble the Switch
+Line up the three posts on the button cap holder with the three holes in the switch base. Fasten the button cap holder to the switch base with three screws.
+
+Note: Be careful not to overtighten the screws. Tighten them until you feel the resistance increase and the button cap holder is seated firmly against the switch base.
+
+
+
+
+
+Self-Test
+The last step is to test your switch. If this is your first switch, you will probably need to test it and work out the right size of button cap insert.
+When I test a switch, I start by pressing it many times. Tap it all over, repeatedly. Every time you press it, you should hear a click as it goes down and another click as it comes back up. It should never stick. If you wiggle the cap, it should move a little, but it should not feel loose or rattly. Then plug the switch into a switch-adapted device to make sure it works.
+
+
+Troubleshooting
+Problem
+Solution
+The button cap is too loose and rattles easily.
+Use a larger/thicker button cap insert.
+The switch makes no sound when pressed.
+Use a smaller/thinner button cap insert. An insert that is too large can hold the limit switch down all the time. When this happens, the limit switch will often "click" closed as you screw everything together, but never click open.
+The switch sticks/does not always come back up.
+Use a smaller/thinner button cap insert. Going down one size may be enough to fix the problem.
+The switch clicks, but the switch-adapted device does not activate.
+Plug the switch-adapted device into a switch you know works, just to confirm the device itself is working properly.
+Check that the plug is fully inserted into the device.
+The solder joint may be damaged and need to be redone.
+The wire may be broken inside and need to be replaced. This is an especially common point of failure on older switches.
+
+
